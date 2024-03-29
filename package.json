@@ -1,9 +1,9 @@
 {
-  "name": "simple",
+  "name": "code-block-greeter",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "tsx app.ts"
+    "start": "npx tsx app.ts"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
