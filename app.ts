@@ -14,7 +14,7 @@ app.listen(port, () => {
 codeBlockApp.inputs([
   {
     name: "name",
-    type: "string",
+    portValueType: "string",
     defaultValue: {
       portValueType: 'string',
       stringValue: 'world',
@@ -23,7 +23,7 @@ codeBlockApp.inputs([
 ]).outputs([
   {
     name: "greet",
-    type: "string",
+    portValueType: "string",
   },
 ])
 
