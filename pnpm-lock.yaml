@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@limit-lab/code-block-sdk':
-    specifier: ~1.0.1
-    version: 1.0.1(express@4.16.4)
+    specifier: ~1.0.2
+    version: 1.0.2(express@4.16.4)
   cookie-parser:
     specifier: ~1.4.4
     version: 1.4.6
@@ -23,8 +23,8 @@ dependencies:
 
 packages:
 
-  /@limit-lab/code-block-sdk@1.0.1(express@4.16.4):
-    resolution: {integrity: sha512-R/5zXZju4m85QvXW0hZ54T6cVj+5GopexncnY7JGKvLU78ysT+gf/Zx2zF6ChARFxR05ouua+4jp34h0VwEqjg==}
+  /@limit-lab/code-block-sdk@1.0.2(express@4.16.4):
+    resolution: {integrity: sha512-gwgxxh27zuZBazpieUgFDbT4+8g3ltbgP4BUaqRBLLgq6sqzS+l3cU91e/TMhC5vCKSrfn0yZ6JpL7cDzqPG/Q==}
     peerDependencies:
       express: '>=4.16'
     dependencies:
